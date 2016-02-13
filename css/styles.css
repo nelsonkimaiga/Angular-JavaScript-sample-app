@@ -8,3 +8,25 @@ and open the template in the editor.
     Author     : kimaiga
 */
 
+html,
+body {
+    font-family: 'Raleway', serif;
+    background:  #143D52;
+    /*background: grey;*/
+    color: #666;
+    text-align: center;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.6em;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+}
+
+#dhx-scheduler{
+    width: 600px;
+    height:350px;
+}
+
+.calendartabs{
+    right:204px;
+}
