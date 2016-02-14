@@ -27,6 +27,14 @@ body {
     height:350px;
 }
 
-.calendartabs{
+.day_tab{
     right:204px;
+}
+
+.week_tab{
+    right: 140px;
+}
+
+.month_tab{
+    right: 76px;
 }
