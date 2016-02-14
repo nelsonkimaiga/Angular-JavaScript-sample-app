@@ -10,7 +10,7 @@ var app = angular.module('calendar', [ ]);
 app.controller('MainSchedulerCtrl', function($scope) {
   $scope.events = [
     { id:1, text:"Task A-12458",
-      start_date: new Date(2013, 10, 12),
+      start_date: new Date(2016, 10, 12),
       end_date: new Date(2013, 10, 16) },
     { id:2, text:"Task A-83473",
       start_date: new Date(2013, 10, 22 ),
