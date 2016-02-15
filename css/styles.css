@@ -22,10 +22,10 @@ body {
     -webkit-overflow-scrolling: touch;
 }
 
-/*#dhx-scheduler{
+dhx-scheduler{
     width: 600px;
     height:350px;
-}*/
+}
 
 .day_tab{
     right:204px;
@@ -37,4 +37,8 @@ body {
 
 .month_tab{
     right: 76px;
+}
+
+#calendar{
+   position: absolute;
 }
